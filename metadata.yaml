@@ -1,11 +1,14 @@
 _repo: Dick-Sands-the-Boy-Captain_9150
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Un capitaine de quinze ans. English
 contributor:
   translator:
     agent_name: Frewer, Ellen Elizabeth
     gutenberg_agent_id: '2984'
     url: http://www.gutenberg.org/2009/agents/2984
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Verne, Jules
@@ -25,6 +28,8 @@ description: "Dick Sand, A Captain at Fifteen (French: Un capitaine de quinze an
   \ is a Jules Verne novel published in 1878. It deals primarily with the issue of\
   \ slavery, and the African slave trade by other Africans in particular.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9150#Dick-Sands-the-Boy-Captain
 gutenberg_issued: '2005-10-01'
 gutenberg_type: Text
 identifiers:
